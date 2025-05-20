@@ -1,0 +1,7 @@
+version = 1
+requires-python = ">=3.11"
+
+[[package]]
+name = "06-build-compose-and-decorate-a-complete-traditional-oop-practice-series"
+version = "0.1.0"
+source = { virtual = "." }
